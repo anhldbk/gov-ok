@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Vneid",
+    "url": "https://sso.dancuquocgia.gov.vn/auth",
+    "icon": "https://icons.duckduckgo.com/ip3/sso.dancuquocgia.gov.vn.ico",
+    "slug": "vneid",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1309,
+    "timeDay": 1309,
+    "timeWeek": 1309,
+    "timeMonth": 1309,
+    "timeYear": 1309,
+    "dailyMinutesDown": {}
+  }
+]
